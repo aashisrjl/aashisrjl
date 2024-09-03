@@ -1,5 +1,5 @@
 #           💫 Hi, I'm Aashis Rijal <br>
-👨‍🎓 A CSIT student<br>✔ I'm looking to collaborate on real-world projects<br>🔄 I'm currently learning node.js<br>❓ ASK me about Technical things<br>💥 Keep learning, keep building <br>💌 How to reach me **aashisrijal252@gmail.com** <br>😂 Fun Fact **I'm really funny**
+👨‍🎓 A CSIT student<br>✔ I'm looking to collaborate on real-world projects<br>🔄 I'm a lifetime leaarner<br>❓ ASK me about node js <br>💥 Keep learning, keep building <br>💌 How to reach me **aashisrijal252@gmail.com** <br>😂 Fun Fact **I'm really funny**
 
 
 ## 🌐 Socials:
