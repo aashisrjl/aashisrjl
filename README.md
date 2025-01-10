@@ -19,8 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### ⏱️ WakaTime Stats:
+![](https://github-readme-stats.vercel.app/api/wakatime?username=aashisrjl&show_icons=true&theme=react&text_color=FFFFFF)
 
-![](https://github-readme-stats.vercel.app/api/wakatimeusername=aashisrjl&show_icons=true&themreact&text_color=FFFFFF)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aashisrjl&limit=5&theme=dark&combine_all_yearly_contributions=true)
