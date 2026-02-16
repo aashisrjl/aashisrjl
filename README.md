@@ -65,24 +65,6 @@ I enjoy designing APIs, working with databases, analyzing datasets, and building
 
 ---
 
-### 📊 Data Analytics & Visualization
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Model Training & Evaluation  
-- Data Visualization (Matplotlib, Pandas plots)  
-- Working with CSV, JSON & SQL datasets  
-
----
-
-### 📚 Dataset & Model Training Platforms
-- Kaggle (Datasets & Practice Competitions)  
-- Google Colab (Model Training & Experimentation)  
-- Jupyter Notebook  
-- CSV / API Data Extraction  
-- PostgreSQL & MySQL for structured data analysis  
-
----
 
 ### ☁ Deployment & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
