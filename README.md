@@ -1,8 +1,7 @@
 # 💫 Hi, I'm Aashis Rijal <br>
-👨‍🎓 CSIT Student <br>
 🚀 Backend Developer | Aspiring AI/ML Engineer <br>
 🔁 Lifelong Learner <br>
-💬 Ask me about **Node.js, Express.js, REST APIs, Databases & Backend Systems** <br>
+💬 Ask me about **Node.js,AI/ML, REST APIs, Databases & Backend Systems** <br>
 💥 Keep Learning, Keep Building <br>
 💌 How to reach me: **aashisrijal252@gmail.com** <br>
 ☕ Fun Fact: I debug better after coffee  
@@ -13,16 +12,10 @@
 I am passionate about building scalable backend systems and exploring Artificial Intelligence & Data Analytics.  
 I enjoy designing APIs, working with databases, analyzing datasets, and building intelligent systems.
 
-- 🔭 Improving backend architecture & system design  
-- 🤖 Learning AI/ML model building & data preprocessing  
-- 📊 Exploring data analytics & visualization  
-- 🧠 Practicing model training using real-world datasets  
-- 🤝 Open to internships & collaborations  
-
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aashis.rijal.92/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aashisrjl/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aashisrjl/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashis-rijal-190402276/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCNjRyPWVovxh54kuy2AJD-Q)
